@@ -7,7 +7,7 @@ class CreateProjects < ActiveRecord::Migration[5.1]
       t.date :start_date
       t.date :end_date
       t.string :image_url
-      t.boolen :active
+      t.boolean :active
       t.references :user, foreign_key: true
 
       t.timestamps
