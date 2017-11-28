@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  proj_name: MyString
+  proj_description: MyText
+  goal_funding: 1
+  start_date: 2017-11-28
+  end_date: 2017-11-28
+  image_url: MyString
+  active: 
+  user: one
+
+two:
+  proj_name: MyString
+  proj_description: MyText
+  goal_funding: 1
+  start_date: 2017-11-28
+  end_date: 2017-11-28
+  image_url: MyString
+  active: 
+  user: two

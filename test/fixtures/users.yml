@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  first_name: MyString
+  last_name: MyString
+  email: MyString
+  password: MyString
+  credit_num: 1
+  credit_exp_date: 2017-11-28
+  sec_code: 1
+
+two:
+  first_name: MyString
+  last_name: MyString
+  email: MyString
+  password: MyString
+  credit_num: 1
+  credit_exp_date: 2017-11-28
+  sec_code: 1
